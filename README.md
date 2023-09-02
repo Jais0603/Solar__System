@@ -1,4 +1,3 @@
-# Solar__System
 
 This README file provides an overview of the HTML and CSS code that creates a simple animation of a sun, Earth, and moon, simulating the rotation of the Earth around the sun and the moon around the Earth. The code is designed to be visually engaging and educational, illustrating the concept of planetary motion.
 
