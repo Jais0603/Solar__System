@@ -10,6 +10,7 @@ This README file provides an overview of the HTML and CSS code that creates a si
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
+- [Clone Repository](#clone-repository)
 
 ## Introduction
 
@@ -31,7 +32,11 @@ This project serves as an educational tool to visually demonstrate the concept o
 
 To use this code, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using your preferred version control tool or by downloading the ZIP file.
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/Jais0603/Solar__System
+   ```
 
 2. **Open the HTML file**: Navigate to the repository folder and open the `index.html` file in a web browser. You should see the animated representation of the sun, Earth, and moon.
 
